@@ -54,8 +54,9 @@ TensorFlow, Scikit-learn, Hugging Face Transformers, NLTK**
 
 ## ✅ **Projects**
 🔮 **Student Engagement Detection System**
+
 I developed a smart system based on a 360° camera with DeepFace and Flask API to
-measure students' concentration during class.
+measure students concentration during class.
 
 The system analyzes the student's facial expressions and gaze, and determines whether
 they are paying attention or not, whether in a real classroom or in online classes.
@@ -67,6 +68,7 @@ The project improves student monitoring and helps teachers identify who needs ex
 support.  
 
 🔮 **Dynamic Pricing System for Manufacturers**
+
 A pricing algorithm was developed using raw material cost data + production cost +
 competitor prices to calculate the best selling price at any given moment.
 
@@ -76,7 +78,8 @@ balances profit and market competition.
 This benefits factories by automatically updating prices instead of manual calculations,
 helping them maintain consistent profits even when raw material prices change.
 
-🔮 **AI Based 2D to 3D Generation & Interactive Visualization System **
+🔮 **AI Based 2D to 3D Generation & Interactive Visualization System**
+
 Currently developing an advanced AI system that converts 2D images into detailed 3D models using
 computer vision and deep learning techniques.
 
