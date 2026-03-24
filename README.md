@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nasr Mohamed</h1>
-<h3 align="center">AI Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">AI Developer | Data Scientist</h3>
 
 <p align="center">
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="400" alt="AI animation"/>
@@ -8,12 +8,13 @@
 ---
 
 ### ✅ About Me
-- 🤖 **AI Developer | Machine Learning Enthusiast**
-- 🏆 **Aspiring Data Scientist & AI Innovator**
+- 🤖 **AI Developer |  Data Scientist**
+- 🏆 **Aspiring Data Scientist & AI Developer**
 - 📊 **Kaggle Contributor** → [My Kaggle Profile](https://www.kaggle.com/nsr51324)
-- 💻 Skilled in **Python, HTML, CSS, JavaScript, React**, and data libraries like **NumPy, Pandas, Matplotlib**
-- 📚 Currently learning **Deep Learning, Computer Vision, and Automation**
-- 🔥 Passionate about **AI Development, Data Analysis, and Web Technologies**
+- 💻 Skilled in **Python, SQL, C++, Java, HTML, CSS, Pandas, NumPy, Matplotlib, Seaborn,plotly, Keras, mediapipe, OpenCV, PyTorch,
+TensorFlow, Scikit-learn, Hugging Face Transformers, NLTK**
+- 📚 Currently learning **Deep Learning, Computer Vision, NLP and Automation**
+- 🔥 Passionate about **AI Development, Data Analysis**
 - 📫 **Reach me at:** nsr51324@gmail.com
 - ✅ **LinkedIn:** [Profile Link](https://www.linkedin.com/in/nasr-mohamed-2b057534a)
 - 🚀 Open to collaborations and exciting AI projects
@@ -22,9 +23,9 @@
 
 ### 📌 **My Journey So Far**
 🎓 **Education:** Mobica International Technology School  
-📚 **Currently Learning:** AI Development, Machine Learning, Deep Learning, and Web Development  
-🏆 **Competitions:** ISEF, Kaggle Projects  
-💡 **Focus:** Building smart AI-powered systems and automation solutions  
+📚 **Currently Learning:** AI Development, Machine Learning, Computer vision , NLP , and Web Development  
+🏆 **Competitions:** ISEF, Kaggle Projects , NASA 
+💡 **Focus:** Building Smart AI-powered systems and automation solutions  
 
 ---
 
@@ -52,17 +53,41 @@
 ---
 
 ## ✅ **Projects**
-🔮 **Face Emotion Detection**  
-Built an AI-powered system using **DeepFace + Flask** for real-time facial emotion detection from camera input.  
-**Tech Stack:** Python, DeepFace, Flask, Socket.IO.  
+🔮 **Student Engagement Detection System**
+I developed a smart system based on a 360° camera with DeepFace and Flask API to
+measure students' concentration during class.
 
-🔮 **My Services Platform**  
-Developed a **service marketplace** for booking verified technicians with secure identity verification, discount system, and WhatsApp-like chatbot.  
-**Tech Stack:** HTML, CSS, JavaScript, React, Flask API, Database Integration.  
+The system analyzes the student's facial expressions and gaze, and determines whether
+they are paying attention or not, whether in a real classroom or in online classes.
 
-🔮 **EXAMLY – AI Proctoring System**  
-Created an **AI-based online exam monitoring system** that detects cheating attempts using webcam and microphone.  
-**Tech Stack:** Python, OpenCV, Flask, AI Models for face & activity detection.  
+It displays a simple dashboard for the teacher showing each student's level of concentration
+and alerts if their attention level drops.
+
+The project improves student monitoring and helps teachers identify who needs extra
+support.  
+
+🔮 **Dynamic Pricing System for Manufacturers**
+A pricing algorithm was developed using raw material cost data + production cost +
+competitor prices to calculate the best selling price at any given moment.
+
+The system performs a quick analysis and provides the factory with a suggested price that
+balances profit and market competition.
+
+This benefits factories by automatically updating prices instead of manual calculations,
+helping them maintain consistent profits even when raw material prices change.
+
+🔮 **AI Based 2D to 3D Generation & Interactive Visualization System **
+Currently developing an advanced AI system that converts 2D images into detailed 3D models using
+computer vision and deep learning techniques.
+
+The system analyzes input images, reconstructs fine details and generates structured 3D
+representations suitable for visualization, design, simulatio and 3D printing.
+
+An interactive application allows users to upload 2D images, generate 3D outputs, explore models
+dynamically and export files directly for 3D printing.
+
+This project simplifies 3D content creation, ensures high fidelity outputs and makes 3D printing more
+accessible through AI driven automation. 
 
 ---
 
