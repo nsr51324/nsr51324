@@ -12,9 +12,9 @@
 - 🏆 **Aspiring Data Scientist & AI Developer**
 - 📊 **Kaggle Contributor** → [My Kaggle Profile](https://www.kaggle.com/nsr51324)
 - 💻 Skilled in **Python, SQL, C++, Java, HTML, CSS, Pandas, NumPy, Matplotlib, Seaborn,plotly, Keras, mediapipe, OpenCV, PyTorch,
-TensorFlow, Scikit-learn, Hugging Face Transformers, NLTK**
-- 📚 Currently learning **Deep Learning, Computer Vision, NLP and Automation**
-- 🔥 Passionate about **AI Development, Data Analysis**
+TensorFlow, Scikit-learn, Hugging Face Transformers, NLTK.**
+- 📚 Currently learning **Machine Learning, Deep Learning, Computer Vision, NLP and Automation**
+- 🔥 Passionate about **Data Science & AI Enginner**
 - 📫 **Reach me at:** nsr51324@gmail.com
 - ✅ **LinkedIn:** [Profile Link](https://www.linkedin.com/in/nasr-mohamed-2b057534a)
 - 🚀 Open to collaborations and exciting AI projects
@@ -23,9 +23,9 @@ TensorFlow, Scikit-learn, Hugging Face Transformers, NLTK**
 
 ### 📌 **My Journey So Far**
 🎓 **Education:** Mobica International Technology School  
-📚 **Currently Learning:** AI Development, Machine Learning, Computer vision , NLP , and Web Development  
-🏆 **Competitions:** ISEF, Kaggle Projects , NASA 
-💡 **Focus:** Building Smart AI-powered systems and automation solutions  
+📚 **Currently Learning:** AI Enginner, Machine Learning, Computer vision , NLP , AI Agent and Automation.  
+🏆 **Competitions:** ISEF, Kaggle Projects, NASA, iSchool, IEEE YESIST, ITS Egypt
+💡 **Focus:** Building Smart AI powered systems and automation solutions  
 
 ---
 
