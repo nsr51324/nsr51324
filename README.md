@@ -78,20 +78,6 @@ balances profit and market competition.
 This benefits factories by automatically updating prices instead of manual calculations,
 helping them maintain consistent profits even when raw material prices change.
 
-🔮 **AI Based 2D to 3D Generation & Interactive Visualization System**
-
-Currently developing an advanced AI system that converts 2D images into detailed 3D models using
-computer vision and deep learning techniques.
-
-The system analyzes input images, reconstructs fine details and generates structured 3D
-representations suitable for visualization, design, simulatio and 3D printing.
-
-An interactive application allows users to upload 2D images, generate 3D outputs, explore models
-dynamically and export files directly for 3D printing.
-
-This project simplifies 3D content creation, ensures high fidelity outputs and makes 3D printing more
-accessible through AI driven automation. 
-
 ---
 
 ## 📈 **GitHub Stats**
