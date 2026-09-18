@@ -1,4 +1,4 @@
-# 👋 Nasr Mohamed — AI Automation & Data Scientist
+# 👋 Nasr Mohamed — Senior AI & Data Scientist
 
 > Building intelligent systems that solve real-world problems through machine learning, deep learning, and generative AI.
 
@@ -12,7 +12,7 @@
 
 ## 🎯 About Me
 
-I'm a **AI Automation & Data Scientist** specializing in:
+I'm a **Senior AI & Data Scientist** specializing in:
 - 🤖 **Machine Learning & Deep Learning** — Building production-grade ML systems
 - 🧠 **Generative AI & LLMs** — RAG systems, prompt engineering, fine-tuning
 - 📊 **Data Engineering & Analytics** — ETL pipelines, data warehouses, BI solutions
@@ -70,19 +70,19 @@ Deep learning benchmark for intraoral disease screening across 6 conditions. Res
 
 ---
 
-### 🧠 [Brain Tumor Classifier](https://github.com/nsr51324/Brain-Tumor-Classifier)
-CNN model for automated brain tumor detection from MRI scans. Multi-class classification distinguishing tumor types with high accuracy using TensorFlow & Keras.
+### 📚 [EDusence](https://github.com/nsr51324/EDusence)
+AI-powered educational platform with intelligent content delivery and personalized learning paths. Implements RAG system for course Q&A, adaptive learning algorithms, and student performance analytics.
 
-**Tech:** CNN • Keras • TensorFlow • Medical AI • MRI  
-**Deployment:** Kaggle • GitHub
+**Tech:** RAG • ChromaDB • TF-IDF • Streamlit • Education AI  
+**Impact:** Smart education solution
 
 ---
 
-### 🎗️ [Breast Cancer Classifier](https://github.com/nsr51324/Breast-Cancer)
-Binary classification predicting breast cancer malignancy from clinical features. Multiple ML algorithms compared with detailed evaluation metrics and feature importance analysis.
+### 🧠 [cortexRAG](https://github.com/nsr51324/cortexRAG)
+Advanced retrieval-augmented generation framework for semantic search and knowledge extraction. Built with cutting-edge LLM integration, vector similarity search, and multi-document reasoning capabilities.
 
-**Tech:** Scikit-learn • Classification • EDA • Pandas  
-**Methodology:** Comparative algorithm analysis
+**Tech:** RAG • LLM • Vector DB • Semantic Search • Production Ready  
+**Scale:** Enterprise-grade RAG system
 
 ---
 
