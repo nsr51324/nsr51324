@@ -37,7 +37,23 @@ I'm a **AI Engineer - n8n Workflows & Data Scientist** specializing in:
 ---
 
 ## 🚀 Featured Projects
+---
 
+### 📚 [Edusence](https://github.com/nsr51324/EDusence)
+AI-powered educational platform with intelligent content delivery and personalized learning paths. Implements RAG system for course Q&A, adaptive learning algorithms, and student performance analytics.
+
+**Tech:** RAG • ChromaDB • TF-IDF • Streamlit • Education AI  
+**Impact:** Smart education solution
+
+---
+
+### 🧠 [cortexRAG](https://github.com/nsr51324/cortexRAG)
+Advanced retrieval-augmented generation framework for semantic search and knowledge extraction. Built with cutting-edge LLM integration, vector similarity search, and multi-document reasoning capabilities.
+
+**Tech:** RAG • LLM • Vector DB • Semantic Search • Production Ready  
+**Scale:** Enterprise-grade RAG system
+
+---
 ### ⭐ [Corrective RAG System](https://github.com/nsr51324/Corrective_RAG_System)
 Production-ready RAG system with advanced retrieval augmentation. Implements corrective loops with TF-IDF chunk retrieval, relevance checking, query rewriting & grounded answer generation powered by Gemini 2.5 Flash. Full Streamlit deployment with PDF/TXT ingestion.
 
@@ -67,23 +83,6 @@ Deep learning benchmark for intraoral disease screening across 6 conditions. Res
 
 **Tech:** ResNet50 • PyTorch • Gradio • Medical AI • Computer Vision  
 **Accuracy:** 94.77% (State-of-the-art)
-
----
-
-### 📚 [EDusence](https://github.com/nsr51324/EDusence)
-AI-powered educational platform with intelligent content delivery and personalized learning paths. Implements RAG system for course Q&A, adaptive learning algorithms, and student performance analytics.
-
-**Tech:** RAG • ChromaDB • TF-IDF • Streamlit • Education AI  
-**Impact:** Smart education solution
-
----
-
-### 🧠 [cortexRAG](https://github.com/nsr51324/cortexRAG)
-Advanced retrieval-augmented generation framework for semantic search and knowledge extraction. Built with cutting-edge LLM integration, vector similarity search, and multi-document reasoning capabilities.
-
-**Tech:** RAG • LLM • Vector DB • Semantic Search • Production Ready  
-**Scale:** Enterprise-grade RAG system
-
 ---
 
 ## 🛠️ Technical Stack
