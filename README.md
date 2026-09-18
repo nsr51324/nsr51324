@@ -1,4 +1,4 @@
-# 👋 Nasr Mohamed — Senior AI & Data Scientist
+# 👋 Nasr Mohamed — AI Automation & Data Scientist
 
 > Building intelligent systems that solve real-world problems through machine learning, deep learning, and generative AI.
 
@@ -12,7 +12,7 @@
 
 ## 🎯 About Me
 
-I'm a **Senior AI & Data Scientist** specializing in:
+I'm a **AI Automation & Data Scientist** specializing in:
 - 🤖 **Machine Learning & Deep Learning** — Building production-grade ML systems
 - 🧠 **Generative AI & LLMs** — RAG systems, prompt engineering, fine-tuning
 - 📊 **Data Engineering & Analytics** — ETL pipelines, data warehouses, BI solutions
